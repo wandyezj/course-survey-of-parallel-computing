@@ -1,6 +1,6 @@
 # Survey of Parallel Computing
 Course to look at Parallel computing technologies.
 
-[Objectives](.\objectives.md)
+[Objectives](./objectives.md)
 
-[Methodology](.\methodology.md)
+[Methodology](./methodology.md)
