@@ -13,6 +13,12 @@
 		// Markdown Support LATEX
 		"goessner.mdmath",
 
+		// Highlight TODO:
+		"wayou.vscode-todo-highlight",
+
+		// Find TODO
+		"gruntfuggly.todo-tree",
+
 		// Spelling
 		"streetsidesoftware.code-spell-checker",
 
